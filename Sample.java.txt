@@ -1,0 +1,6 @@
+class Sample
+{
+int id;
+String name;
+System.out.println("Welcome to GIT REPO");
+}
